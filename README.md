@@ -35,3 +35,15 @@ Recursos adicionais, como ferramentas, sites e guias.
 
 Aqui você encontrará links para cursos gratuitos que cobrem diversos aspectos de GIS e ferramentas relacionadas.
 * [Curso QGIS para Iniciantes (2024)](https://youtube.com/playlist?list=PLvb2I6DWKZQ9KWUAH2b-_3QYodDnTsCln&si=WF2XrHARsuwxGkQM)
+
+
+
+---
+
+## Contribuições
+
+Gostaria de contribuir com o **GeoResourceLibrary**? Consulte nosso guia de contribuições para obter informações detalhadas sobre como adicionar novos recursos e melhorar o repositório. Você pode encontrar o guia de contribuições no arquivo [ComoContribuir.md](ComoContribuir.md).
+
+Agradecemos seu interesse e suas contribuições para enriquecer nossa biblioteca de recursos!
+
+---
