@@ -6,7 +6,6 @@ Bem-vindo ao **GeoResourceLibrary**, um repositório dedicado a colectar e organ
 
 
 ## Perfis e Comunidades
-
 Perfis de especialistas e comunidades relevantes na área de GIS.
 * [Perfil de ArcGIS no LinkedIn](https://www.linkedin.com/company/esri/posts/)
 * [Perfil do QGIS Brasil no LinkedIn](https://www.linkedin.com/company/qgisbrasil/)
@@ -43,11 +42,10 @@ Perfis de especialistas e comunidades relevantes na área de GIS.
 * [Perfil do LinkedIn de Amirhossein Ahrari](https://www.linkedin.com/in/amirhosseinahrari/)
 * [Perfil do LinkedIn de Hans van der Kwast](https://www.linkedin.com/in/jvdkwast/)
 * [Perfil do LinkedIn de Arkadiusz (Arek) Szadkowski](https://www.linkedin.com/in/arkadiuszszadkowski/)
+* [Grupo do LinkedIn de Notícias Cartograficas](https://www.linkedin.com/groups/13691204/)
 
 ## Artigos e Posts
-
 Artigos e posts relevantes sobre GIS e tópicos relacionados.
-
 * [Excel + ArcGIS = 📊🗺️](https://www.linkedin.com/posts/arkadiuszszadkowski_gis-excel-arcgispro-activity-7238475649525415936-a4y8?utm_source=share&utm_medium=member_desktop) - Autor: Arkadiusz Szadkowski
 * [20 GIS DATA SOURCES & THEIR WEBSITES](https://www.linkedin.com/posts/mashford-mahute-012487178_gis-gis-reposting-activity-7238808404964630528-FpWp?utm_source=share&utm_medium=member_desktop) - Autor: Mashford Mahute
 * [20 Tipos de Gráficos Essenciais e Quando Usá-los](https://piktochart.com/pt-br/blog/tipos-de-graficos/) - Kai Tomboc
@@ -55,11 +53,9 @@ Artigos e posts relevantes sobre GIS e tópicos relacionados.
 * [8 Applications of GIS in Transportation](https://www.linkedin.com/posts/mashford-mahute-012487178_gis-transportation-technology-activity-7236022954839420928-gCMu?utm_source=share&utm_medium=member_desktop)
 * [The Fluvial Geomorphology Equivalent Of ‘Ontogeny Recapitulates Phylogeny’?](https://www.linkedin.com/posts/gregcocks_gis-spatial-mapping-activity-7067563944701292544-eubz?utm_source=share&utm_medium=member_desktop)
 * [Crop Type Classification using Random Forest Machine Learning Classifier and Sentinel-2 in GEE](https://www.linkedin.com/posts/lukumon-lateef_gee-randomforests-crop-activity-7225420843143622656-l470?utm_source=share&utm_medium=member_desktop)
-* 
 
 
 ## Podcasts e Canais
-
 Canais e Episódios de podcasts focados em GIS
 * [Canal Podcast Nexos Ambiental](https://www.youtube.com/@podcastnexosambiental)
 * [GeoDelta Labs](https://www.youtube.com/@geodeltalabs)
@@ -92,6 +88,10 @@ Recursos adicionais, como ferramentas, sites e guias.
 * [LeafletJS](https://leafletjs.com/)
 * [OpenLayers](https://openlayers.org/)
 * [GeoPandas](https://geopandas.org/en/stable/)
+* [Shapely](https://shapely.readthedocs.io/en/stable/#)
+* [MovingPandas](https://movingpandas.org/)
+* [Scikit-mobility](https://scikit-mobility.github.io/scikit-mobility/#)
+* 
 
 ## Cursos
 
