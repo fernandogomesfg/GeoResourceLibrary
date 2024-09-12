@@ -97,6 +97,7 @@ Recursos adicionais, como ferramentas, sites e guias.
 
 Aqui você encontrará links para cursos gratuitos que cobrem diversos aspectos de GIS e ferramentas relacionadas.
 * [Curso QGIS para Iniciantes (2024)](https://youtube.com/playlist?list=PLvb2I6DWKZQ9KWUAH2b-_3QYodDnTsCln&si=WF2XrHARsuwxGkQM)
+* [Introduction to QGIS (Full Course, Ad-Free)](https://youtu.be/pGm7w-LywO0?si=dIckFZsZDvDlnLhR)
 
 
 
