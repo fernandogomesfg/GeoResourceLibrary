@@ -55,6 +55,7 @@ Artigos e posts relevantes sobre GIS e tópicos relacionados.
 * [Crop Type Classification using Random Forest Machine Learning Classifier and Sentinel-2 in GEE](https://www.linkedin.com/posts/lukumon-lateef_gee-randomforests-crop-activity-7225420843143622656-l470?utm_source=share&utm_medium=member_desktop)
 * [Making Interactive Reveal Maps](https://www.linkedin.com/posts/lalitbc_qgis-spatial-gis-ugcPost-7241478203037339649-NbKF?utm_source=share&utm_medium=member_desktop)
 * [Overcoming the limitations of the GEE Code Editor to create Web Maps 👩🏻‍💻 | Fires in Portugal ](https://www.linkedin.com/posts/jessicaguchoa_googleearthengine-sentinel2-overpassapi-ugcPost-7241525337002545152-rOUd?utm_source=share&utm_medium=member_desktop) - Jéssica UchôaJéssica Uchôa
+* [🌍 ¡Descubre el poder de ArcGIS Pro en el análisis geoespacial! 🌍](https://www.linkedin.com/posts/mariapaulagonzalezmendivelso_gis-arcgispro-sig-activity-7241449119775358976-_wm1?utm_source=share&utm_medium=member_desktop)
 
 
 ## Podcasts e Canais
